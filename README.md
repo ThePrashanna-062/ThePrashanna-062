@@ -1,22 +1,89 @@
-<h1 align="center">Hi 👋, I'm Prashanna Karmacharya</h1>
-<h3 align="center">COMPUTER ENGINEERING STUDENT</h3>
+# 👋 Hi, I'm Prashanna Karmacharya
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theprashanna-062&label=Profile%20views&color=0e75b6&style=flat" alt="theprashanna-062" /> </p>
+🎓 **Computer Engineering Student**  
+🧭 Engineer by discipline, Explorer by mindset, Perpetual Student by choice
 
-- 🌱 I’m currently learning **Python, Data structure and algorithm, Data Analysis**
 
-- 📫 How to reach me **Linkedin = https://www.linkedin.com/in/prashanna-karmacharya-357557368/ gmail = prashanna2062@gamil.com**
+I build with precision, learn relentlessly, and navigate uncertainty with curiosity.  
+Right now, I’m focused on strengthening my engineering foundations while expanding into **data science, machine learning, and low-level systems programming**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prashanna-karmacharya-357557368/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashanna-karmacharya-357557368/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/prashanna.karmacharya.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/prashanna.karmacharya.94" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/prashanna_karmacharya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/prashanna_karmacharya/" height="30" width="40" /></a>
+I don’t just want to keep up with technology—I want to help shape where it goes next.
+
+---
+
+## 🧠 Current Focus
+
+- 📚 Core Computer Engineering coursework
+- 🧮 Data Structures & Algorithms
+- 📊 Python for Data Analysis & Data Science
+- 🤖 Foundations of Machine Learning & AI
+- 🔌 Assembly Level Programming (ALP) for Microprocessors
+- 🖥️ Computer Graphics using C++
+
+I’m also preparing to actively participate in **hackathons**, where theory meets pressure and ideas meet reality.
+
+---
+
+**Languages** <br><br>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools**<br><br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+
+---
+
+## 🚀 Projects
+
+### 🏥 Health Tracking System (C++)
+- Console-based application using **Object-Oriented Programming**
+- Implemented **file handling** for persistent data storage
+- Designed modular classes for health data management
+- Strengthened understanding of **class design, data encapsulation, and program structure**
+
+### 📚 Library Management System (C)
+- Console-based system using **procedural programming**
+- Implemented full **CRUD functionality**
+- Features include book registration, search, issue & return modules
+- Gained hands-on experience with **structures, pointers, and file-based storage**
+
+---
+
+**Connect With Me**<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanna-karmacharya-357557368/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThePrashanna-062)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prashanna_karmacharya/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/prashanna.karmacharya.94)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashanna2062@gmail.com)
+
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThePrashanna-062&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePrashanna-062&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theprashanna-062&show_icons=true&locale=en" alt="theprashanna-062" /></p>
+## 🔮 Vision
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theprashanna-062&" alt="theprashanna-062" /></p>
+> **In the next 1–2 years, my GitHub will reflect my growth into a  
+> Systems Architect who bridges the gap between hardware and high-level software.**
+
+I believe strong systems are built by engineers who understand both **what the machine does** and **why the abstraction exists**.
+
+---
+
+⭐ *If you find my work interesting, feel free to explore, learn, or collaborate.*
