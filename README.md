@@ -97,3 +97,12 @@ I believe strong systems are built by engineers who understand both **what the m
 <p align="center">
   <strong>Thanks for visiting! Keep building, keep learning 🚀</strong>
 </p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ThePrashanna-062/ThePrashanna-062/output/snake-dark.svg" />
+</p>
+
