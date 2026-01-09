@@ -70,9 +70,9 @@ I’m also preparing to actively participate in **hackathons**, where theory mee
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThePrashanna-062&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ThePrashanna-062&show_icons=true&count_private=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePrashanna-062&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThePrashanna-062&layout=compact&langs_count=6&theme=tokyonight" />
 </p>
 
 ---
@@ -87,3 +87,13 @@ I believe strong systems are built by engineers who understand both **what the m
 ---
 
 ⭐ *If you find my work interesting, feel free to explore, learn, or collaborate.*
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
+</p>
+
+<p align="center">
+  <strong>Thanks for visiting! Keep building, keep learning 🚀</strong>
+</p>
