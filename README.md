@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prashanna Karmacharya
+# 👋 Hi, I'm Prashanna Karmacharya &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://api.visitorbadge.io/api/visitors?path=ThePrashanna-062&label=PROFILE%20VIEWS&countColor=%23263a72&style=flat-square)
 
 🎓 **Computer Engineering Student**  
 🧭 Engineer by discipline, Explorer by mindset, Perpetual Student by choice
