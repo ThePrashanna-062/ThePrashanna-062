@@ -47,9 +47,10 @@ I am a dedicated Computer Engineering student with a strong interest in programm
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-| Stats | Languages |
-|------|-----------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=ThePrashanna-062&show_icons=true&theme=tokyonight&hide_border=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePrashanna-062&layout=compact&theme=tokyonight&hide_border=true) |
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThePrashanna-062&show_icons=true&theme=tokyonight" alt="Prashanna's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePrashanna-062&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
