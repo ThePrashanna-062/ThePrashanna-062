@@ -77,6 +77,9 @@ I’m also preparing to actively participate in **hackathons**, where theory mee
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ThePrashanna-062&theme=vitesse&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+---
 ## 🔮 Vision
 
 > **In the next 1–2 years, my GitHub will reflect my growth into a  
@@ -90,6 +93,14 @@ I believe strong systems are built by engineers who understand both **what the m
 
 ---
 
+## 🐍 My Contribution 🐍
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ThePrashanna-062/ThePrashanna-062/output/snake-dark.svg" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
 </p>
@@ -99,10 +110,4 @@ I believe strong systems are built by engineers who understand both **what the m
 </p>
 
 ---
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ThePrashanna-062/ThePrashanna-062/output/snake-dark.svg" />
-</p>
 
