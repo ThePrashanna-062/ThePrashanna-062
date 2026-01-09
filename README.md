@@ -1,65 +1,55 @@
-## Hi there 👋
-# 👋 Hi, I'm Prashanna (ThePrashanna)
+<h1 align="center">Hi, I'm Prashanna Karmacharya 👋</h1>
+<h3 align="center">Computer Engineering Student from Nepal 🇳🇵</h3>
 
-🎓 Computer Engineering Student  
-📍 Nepal 🇳🇵  
-💻 Tech Enthusiast | Problem Solver | Lifelong Learner  
-
----
-
-## 🙋‍♂️ About Me
-
-- 🎓 Studying **Computer Engineering**
-- 💡 Interested in **IoT, Software Development, and Problem Solving**
-- 🧠 Currently strengthening **core programming & engineering fundamentals**
-- ⚽ Love **football** and technology
-- 🚀 Aim: Build real-world projects and grow as an engineer
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,vscode" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/prashanna-karmacharya-357557368/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:prashanna2062@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
 
-## 📚 Currently Learning
+### 👨‍💻 About Me
 
-- Data Structures & Algorithms  
-- IoT fundamentals  
-- Software Engineering concepts  
+I am a dedicated Computer Engineering student with a strong interest in programming, problem-solving, and practical learning. I aim to build a solid engineering career while contributing effectively to team-based goals.
+
+- 🔭 I’m currently working on **IoT integration and APIs**
+- 🌱 I’m currently learning **Python, C/C++, Data Structures, and System Architecture**
+- 🎨 My passions include **Gaming, Photography, and Creative Drawing**
+- 💼 Experience: **ACEI Local Campus Ambassador** at IEEE Pulchowk Student Branch
+- 📍 Location: **Lalitpur, Nepal**
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Tech Stack & Tools
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ThePrashanna-062&show_icons=true&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,git,github,vscode,arduino" alt="My Skills" />
 </p>
 
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | C, C++, Python, HTML |
+| **Concepts** | OOP, Data Structures, File Handling, IoT Integration |
+| **Tools** | VS Code, Jupyter Notebook, Git & GitHub |
+
 ---
 
-## 🌐 Connect With Me
+### 🚀 Projects
 
-- Linkedin: [https://www.linkedin.com/in/prashanna-karmacharya-357557368/
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **Health Tracking System** | A console-based application using OOP and file handling to store and display health-related data. | C++ |
+| **Library Management System** | A procedural programming application featuring CRUD functionality (book registration, search, issue/return modules). | C |
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+### 📊 GitHub Stats
 
-<!--
-**ThePrashanna-062/ThePrashanna-062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThePrashanna-062&show_icons=true&theme=tokyonight" alt="Prashanna's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePrashanna-062&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
