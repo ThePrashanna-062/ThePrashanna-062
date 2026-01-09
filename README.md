@@ -57,13 +57,23 @@ I’m also preparing to actively participate in **hackathons**, where theory mee
 
 ---
 
-**Connect With Me**<br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanna-karmacharya-357557368/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThePrashanna-062)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prashanna_karmacharya/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/prashanna.karmacharya.94)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashanna2062@gmail.com)
+**Connect With Me**
 
+<a href="https://www.linkedin.com/in/prashanna-karmacharya-357557368/">
+  <img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white" height="40"/>
+</a>&nbsp;
+<a href="https://github.com/ThePrashanna-062">
+  <img src="https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white" height="40"/>
+</a>&nbsp;
+<a href="https://www.instagram.com/prashanna_karmacharya/">
+  <img src="https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white" height="40"/>
+</a>&nbsp;
+<a href="https://www.facebook.com/prashanna.karmacharya.94">
+  <img src="https://img.shields.io/badge/-1877F2?style=flat&logo=facebook&logoColor=white" height="40"/>
+</a>&nbsp;
+<a href="mailto:prashanna2062@gmail.com">
+  <img src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white" height="40"/>
+</a>
 
 ---
 
