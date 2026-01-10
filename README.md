@@ -24,19 +24,34 @@ I’m also preparing to actively participate in **hackathons**, where theory mee
 
 ---
 
-**Languages** <br><br>
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Languages
+<img align="left" alt="C" width="30px" style="padding-right:10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<br />
 
-**Tools**<br><br>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+### Tools
+<img align="left" alt="Git" width="30px" style="padding-right:10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="VS Code" width="30px" style="padding-right:10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img align="left" alt="Notion" width="30px" style="padding-right:10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
+<img align="left" alt="Canva" width="30px" style="padding-right:10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+<br />
+
 
 
 ---
@@ -59,33 +74,37 @@ I’m also preparing to actively participate in **hackathons**, where theory mee
 
 **Connect With Me**
 
-<a href="https://www.linkedin.com/in/prashanna-karmacharya-357557368/">
-  <img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white" height="40"/>
-</a>&nbsp;
-<a href="https://github.com/ThePrashanna-062">
-  <img src="https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white" height="40"/>
-</a>&nbsp;
-<a href="https://www.instagram.com/prashanna_karmacharya/">
-  <img src="https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white" height="40"/>
-</a>&nbsp;
-<a href="https://www.facebook.com/prashanna.karmacharya.94">
-  <img src="https://img.shields.io/badge/-1877F2?style=flat&logo=facebook&logoColor=white" height="40"/>
-</a>&nbsp;
-<a href="mailto:prashanna2062@gmail.com">
-  <img src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white" height="40"/>
+<a href="https://www.linkedin.com/in/prashanna-karmacharya-357557368/" target="_blank">
+  <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
+
+<a href="https://github.com/ThePrashanna-062" target="_blank">
+  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</a>
+
+<a href="https://www.instagram.com/prashanna_karmacharya/" target="_blank">
+  <img align="left" alt="Instagram" width="30px" style="padding-right:10px;"
+       src="https://cdn.simpleicons.org/instagram" />
+</a>
+
+
+<a href="https://www.facebook.com/prashanna.karmacharya.94" target="_blank">
+  <img align="left" alt="Facebook" width="30px" style="padding-right:10px;"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+</a>
+
+<a href="mailto:prashanna2062@gmail.com">
+  <img align="left" alt="Gmail" width="30px" style="padding-right:10px;"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+</a>
+
+<br />
 
 ---
 
 ## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ThePrashanna-062&show_icons=true&count_private=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThePrashanna-062&layout=compact&langs_count=6&theme=tokyonight" />
-</p>
-
----
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ThePrashanna-062&theme=vitesse&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
