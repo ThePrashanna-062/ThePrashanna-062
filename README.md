@@ -20,14 +20,28 @@ I don’t just want to keep up with technology, I want to help shape where it go
 
 ## 🧠 Current Focus
 
-- 📚 Core Computer Engineering coursework
-- 🧮 Data Structures & Algorithms
-- 📊 Python for Data Analysis & Data Science
-- 🤖 Foundations of Machine Learning & AI
-- 🔌 Assembly Level Programming (ALP) for Microprocessors
-- 🖥️ Computer Graphics using C++
+<table>
+<tr>
+<td width="65%" valign="top">
 
-I’m also preparing to actively participate in **hackathons**, where theory meets pressure and ideas meet reality.
+📚 Core Computer Engineering coursework  
+- 🧮 Data Structures & Algorithms  
+- 📊 Python for Data Analysis & Data Science  
+- 🤖 Foundations of Machine Learning & AI  
+- 🔌 Assembly Level Programming (ALP) for Microprocessors  
+- 🖥️ Computer Graphics using C++  
+
+I’m also preparing to actively participate in **hackathons**,  
+where theory meets pressure and ideas meet reality.
+
+</td>
+<td width="35%" align="right">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -58,8 +72,6 @@ I’m also preparing to actively participate in **hackathons**, where theory mee
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <br />
-
-
 
 ---
 
@@ -138,11 +150,7 @@ I believe strong systems are built by engineers who understand both **what the m
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
-</p>
-
-<p align="center">
-  <strong>Thanks for visiting! Keep building, keep learning 🚀</strong>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Halant&size=22&color=8AB4F8&center=true&vCenter=true&width=850&height=55&duration=3200&pause=900&lines=Thanks+for+visiting.;Projects+are+running+in+the+background...;Keep+building.+Keep+learning+%F0%9F%9A%80"/>
 </p>
 
 ---
