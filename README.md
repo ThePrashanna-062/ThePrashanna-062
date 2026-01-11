@@ -1,4 +1,11 @@
-# 👋 Hi, I'm Prashanna Karmacharya&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://api.visitorbadge.io/api/visitors?path=ThePrashanna-062&label=PROFILE%20VIEWS&countColor=%23263a72&style=flat-square)
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Halant&size=35&color=F5FF9E&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi!;I'm+Prashanna+Karmacharya!;Welcome+to+My+Hub!"/>
+</h1>
+
+<p align="right">
+  <img src="https://api.visitorbadge.io/api/visitors?path=ThePrashanna-062&label=PROFILE%20VIEWS&countColor=%23263a72&style=flat-square" />
+</p>
+
 
 🎓 **Computer Engineering Student**  
 🧭 Engineer by discipline, Explorer by mindset, Perpetual Student by choice
@@ -7,7 +14,7 @@
 I build with precision, learn relentlessly, and navigate uncertainty with curiosity.  
 Right now, I’m focused on strengthening my engineering foundations while expanding into **data science, machine learning, and low-level systems programming**.
 
-I don’t just want to keep up with technology—I want to help shape where it goes next.
+I don’t just want to keep up with technology, I want to help shape where it goes next.
 
 ---
 
