@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Halant&size=35&color=C4A484&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi!;I'm+Prashanna+Karmacharya!;Welcome+to+My+Hub!"/>
 </h1>
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Halant&size=35&color=F5FF9E&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi!;I'm+Prashanna+Karmacharya!;Welcome+to+My+Hub!"/>
-</h1>
-
 <p align="right">
   <img src="https://api.visitorbadge.io/api/visitors?path=ThePrashanna-062&label=PROFILE%20VIEWS&countColor=%23263a72&style=flat-square" />
 </p>
